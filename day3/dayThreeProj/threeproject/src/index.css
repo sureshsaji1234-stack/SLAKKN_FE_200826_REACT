@@ -46,3 +46,9 @@ a:hover{
   gap: 10px;
   
 }
+.navbar{
+  background-color: bisque;
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+}

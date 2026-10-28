@@ -9,7 +9,7 @@ const NavBar=()=>{
                 <img className="logoone" src={logopng} />
             </div>
             <div>
-                <input className='searchbar' type="text" />
+                <input className='searchbar' type="text" placeholder="Search" />
             </div>
             <div className='navigations'>
                 <a href="">Home</a>

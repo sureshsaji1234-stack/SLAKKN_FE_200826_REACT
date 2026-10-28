@@ -1,7 +1,11 @@
 const About=()=>{
     return (<>
-    <h1>About</h1>
+
+    <div>
+        <h1>About</h1>
     <p>here is the About page</p>
+    </div>
+
     </>)
 }
 export default About
